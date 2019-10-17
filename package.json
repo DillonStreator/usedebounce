@@ -1,5 +1,5 @@
 {
-	"name": "usedebounce",
+	"name": "use-debouncing",
 	"version": "1.0.0",
 	"description": "React Hook to determine whether or not a value is settled",
 	"main": "dist/index.js",
@@ -16,9 +16,13 @@
 		"react-hook",
 		"react-hooks",
 		"debounce",
+		"debouncing",
 		"useDebounce",
+		"useDebouncing",
 		"debounce-hook",
-		"react-debounce"
+		"debouncing-hook",
+		"react-debounce",
+		"react-debouncing"
 	],
 	"author": "Dillon Streator",
 	"license": "ISC",
