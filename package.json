@@ -2,11 +2,13 @@
 	"name": "usedebounce",
 	"version": "1.0.0",
 	"description": "React Hook to determine whether or not a value is settled",
-	"main": "index.js",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
 	"scripts": {
 		"build:prod": "webpack --env.mode production",
 		"build:dev": "webpack --env.mode development"
 	},
+	"repository": "https://github.com/DillonStreator/usedebounce",
 	"keywords": [
 		"react",
 		"hooks",
